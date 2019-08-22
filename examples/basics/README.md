@@ -1,4 +1,4 @@
-This website was created with [bicument](https://bilibili.com/).
+This website was created with [bicument](https://github.com/shuangwhywhy/bicument).
 
 # What's In This Document
 
@@ -28,7 +28,7 @@ $ yarn start
 Your project file structure should look something like this
 
 ```
-my-docusaurus/
+my-bicument/
   docs/
     doc-1.md
     doc-2.md
@@ -65,7 +65,7 @@ title: This Doc Needs To Be Edited
 Edit me...
 ```
 
-For more information about docs, click [here](https://docusaurus.io/docs/en/navigation)
+For more information about docs, click [here](https://github.com/shuangwhywhy/bicument)
 
 ## Editing an existing blog post
 
@@ -81,7 +81,7 @@ title: This Blog Post Needs To Be Edited
 Edit me...
 ```
 
-For more information about blog posts, click [here](https://docusaurus.io/docs/en/adding-blog)
+For more information about blog posts, click [here](https://github.com/shuangwhywhy/bicument)
 
 # Adding Content
 
@@ -114,7 +114,7 @@ My new content here..
 }
 ```
 
-For more information about adding new docs, click [here](https://docusaurus.io/docs/en/navigation)
+For more information about adding new docs, click [here](https://github.com/shuangwhywhy/bicument)
 
 ## Adding a new blog post
 
@@ -144,7 +144,7 @@ title: New Blog Post
 Lorem Ipsum...
 ```
 
-For more information about blog posts, click [here](https://docusaurus.io/docs/en/adding-blog)
+For more information about blog posts, click [here](https://github.com/shuangwhywhy/bicument)
 
 ## Adding items to your site's top navigation bar
 
@@ -160,14 +160,14 @@ For more information about blog posts, click [here](https://docusaurus.io/docs/e
     /* you can add custom pages */
     { page: 'help', label: 'Help' },
     /* you can add external links */
-    { href: 'https://github.com/facebook/Docusaurus', label: 'GitHub' },
+    { href: 'https://github.com/shuangwhywhy/bicument', label: 'GitHub' },
     ...
   ],
   ...
 }
 ```
 
-For more information about the navigation bar, click [here](https://docusaurus.io/docs/en/navigation)
+For more information about the navigation bar, click [here](https://github.com/shuangwhywhy/bicument)
 
 ## Adding custom pages
 
@@ -186,8 +186,8 @@ For more information about the navigation bar, click [here](https://docusaurus.i
 }
 ```
 
-For more information about custom pages, click [here](https://docusaurus.io/docs/en/custom-pages).
+For more information about custom pages, click [here](https://github.com/shuangwhywhy/bicument).
 
 # Full Documentation
 
-Full documentation can be found on the [website](https://docusaurus.io/).
+Full documentation can be found on the [website](https://github.com/shuangwhywhy/bicument).

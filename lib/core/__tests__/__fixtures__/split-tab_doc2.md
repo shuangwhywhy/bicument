@@ -1,6 +1,6 @@
 1. Doc
     * Hello
-        <!--DOCUSAURUS_CODE_TABS-->
+        <!--BICUMENT_CODE_TABS-->
         <!--JavaScript-->
         ```js
         console.log('Hello, world!');
@@ -28,5 +28,5 @@
         end.
         ```
         
-        <!--END_DOCUSAURUS_CODE_TABS-->
+        <!--END_BICUMENT_CODE_TABS-->
  1. Do that

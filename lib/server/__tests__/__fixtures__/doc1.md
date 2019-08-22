@@ -3,12 +3,12 @@ id: doc1
 title: Document 1
 ---
 
-Docusaurus is the best :)
+bicument is the best :)
 
 ![image1](assets/image1.png)
 
 ```js
-console.log("Docusaurus");
+console.log("bicument");
 ```
 
 ![image2](assets/image2.jpg)

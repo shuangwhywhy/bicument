@@ -7,12 +7,12 @@ Object {
   "authorTwitter": "endiliey",
   "authorURL": "https://github.com/endiliey",
   "content": "
-![Docusaurus](/img/slash-introducing.png)
+![bicument](/img/slash-introducing.png)
 
-We are very happy to introduce [Docusaurus](https://github.com/facebook/Docusaurus) to help you manage one or many open source websites.",
-  "id": "Docusaurus",
-  "path": "2018/08/17/docusaurus.html",
-  "title": "Docusaurus",
+We are very happy to introduce [bicument](https://github.com/shuangwhywhy/bicument) to help you manage one or many open source websites.",
+  "id": "bicument",
+  "path": "2018/08/17/bicument.html",
+  "title": "bicument",
 }
 `;
 
@@ -46,12 +46,12 @@ const testStr = \`![image3](assets/image3.gif)\`;
 
 exports[`replaceAssetsLink transform document with valid assets link 1`] = `
 "
-Docusaurus is the best :)
+bicument is the best :)
 
 ![image1](/blog/assets/image1.png)
 
 \`\`\`js
-console.log(\\"Docusaurus\\");
+console.log(\\"bicument\\");
 \`\`\`
 
 ![image2](/blog/assets/image2.jpg)

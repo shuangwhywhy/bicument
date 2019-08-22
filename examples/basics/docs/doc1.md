@@ -4,7 +4,7 @@ title: Latin-ish
 sidebar_label: Example Page
 ---
 
-Check the [documentation](https://docusaurus.io) for how to use bicument.
+Check the [documentation](https://github.com/shuangwhywhy/bicument) for how to use bicument.
 
 ## Lorem
 
