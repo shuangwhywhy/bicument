@@ -74,6 +74,11 @@
     "tcp-port-used": "^1.0.1",
     "tiny-lr": "^1.1.1",
     "tree-node-cli": "^1.2.5",
-    "truncate-html": "^1.0.1"
+    "truncate-html": "^1.0.1",
+    "@vue/component-compiler-utils": "^3.1.1",
+    "@vuepress/markdown": "^1.2.0",
+    "@vuepress/shared-utils": "^1.2.0",
+    "lru-cache": "^5.1.1",
+    "toml": "^3.0.0"
   }
 }
