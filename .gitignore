@@ -1,3 +1,5 @@
 node_modules
 .npmignore
 .vscode
+lib/core/metadata.js
+lib/static/js/doc_metadata.js
