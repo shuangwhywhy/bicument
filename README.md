@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/bicument"><img src="https://img.shields.io/npm/v/docusaurus.svg?style=flat" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/bicument"><img src="https://i0.hdslb.com/bfs/mall/mall/ae/0e/ae0ee4a857df5e307e1d04b5d420cb5b.png" alt="npm"></a>
   <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
   <a href="https://github.com/facebook/jest"><img src="https://img.shields.io/badge/tested_with-jest-99424f.svg" alt="Tested with Jest"></a>
