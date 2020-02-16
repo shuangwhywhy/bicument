@@ -40,11 +40,20 @@ function Help(props) {
     <div className="docMainWrapper wrapper">
       <Container className="mainContainer documentContainer postContainer">
         <div className="post">
-          <header className="postHeader">
-            <h1>Need help?</h1>
-          </header>
-          <p>This project is maintained by a dedicated group of people.</p>
-          <GridBlock contents={supportLinks} layout="threeColumn" />
+          <ol>
+            <li>
+              <h3>按"s"或"/"，可以直接focus到搜索框</h3>
+              <p><img src="" /></p>
+            </li>
+            <li>
+              <h3>按"esc"可以[展开]/[收起]当前页面左侧的垂直导航</h3>
+              <p><img src="" /></p>
+            </li>
+            <li>
+              <h3>搜索框支持模糊搜索</h3>
+              <p><img src="" /></p>
+            </li>
+          </ol>
         </div>
       </Container>
     </div>
