@@ -2437,3 +2437,40 @@ input::placeholder {
 /* by qyz: */
 .navGroupCategoryTitle > a {color: #393939;}
 .navGroupCategoryTitle > a:hover, .navGroupCategoryTitle.navListItemActive > a {color: #fb7299;}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+#back-to-top {background: #fb7299;}
+
+@media only screen and (min-width: 1024px) {
+  .separateOnPageNav .docsNavContainer {
+      flex: 0 0 280px;
+  }
+  .onPageNav {
+      flex: 0 0 200px;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .header-nav-right {position: absolute; right: 0;}
+}
+
+nav.onPageNav:empty {
+  display: none;
+}
+.header-nav-right {display: flex; margin-left: 10px;}
+.header-nav-right > * {margin-right: 10px;}
+.header-nav-right > :first-child {margin-left: 0 !important;}
+.header-nav-right > :last-child {margin-right: 0 !important;}
+.header-nav-right > :last-child img {margin-right: 0 !important;}
+.idea-icon {height: 25px !important; margin-top: -2px;}
