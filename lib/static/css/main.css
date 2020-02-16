@@ -2473,4 +2473,10 @@ nav.onPageNav:empty {
 .header-nav-right > :first-child {margin-left: 0 !important;}
 .header-nav-right > :last-child {margin-right: 0 !important;}
 .header-nav-right > :last-child img {margin-right: 0 !important;}
-.idea-icon {height: 25px !important; margin-top: -2px;}
+.idea-icon {height: 25px !important; margin-top: -3px;}
+
+@media only screen and (max-width: 419px) {
+  .search-box  .suggestions {
+    width: calc(100vw - 4rem);
+  }
+}
